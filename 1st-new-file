@@ -3,3 +3,4 @@ git status
 git add
 git status
 git commit -m "ms1"
+now we are using git pull command
